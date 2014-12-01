@@ -56,7 +56,7 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 div {
-    border: 1px solid Chocolate;
+    xborder: 1px solid Chocolate;
 }
 
 .navBar {
@@ -100,6 +100,7 @@ div {
 .navBar .links > .active {
     color: #4c5058;
     font-weight: 600;
+    font-weight: 500;
 }
 
 .links > li {
